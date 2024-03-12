@@ -1,0 +1,3 @@
+[submodule "Latte"]
+	path = Latte
+	url = https://github.com/Vchitect/Latte
